@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/pages/Home.js"],"names":["Home","React","Component"],"mappings":"qKAEMA,E,uKAEF,OAAO,gD,GAFQC,IAAMC,WAMVF","file":"static/js/8.c1ec90e0.chunk.js","sourcesContent":["import React from \"react\"\n\nclass Home extends React.Component{\n  render(){\n    return <h4>You're Home.</h4>\n  }\n}\n\nexport default Home"],"sourceRoot":""}

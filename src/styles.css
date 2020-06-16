@@ -1,0 +1,47 @@
+.content-wrapper{
+    margin: 0px !important;
+}
+
+.form-section .col-12 label{
+    position: relative;
+    bottom: -6px;
+}
+
+.form-section label{
+    position: relative;
+    bottom: -8px;
+}
+
+.form-section .result{
+    color: black;
+    padding-right: 15px;
+    font-size: 3em;
+    margin-top: 4%;
+}
+
+.form-section .col-12{
+    padding-left: 0px;
+    padding-bottom: 10px;
+}
+
+.card-title{
+    font-size: 2em;
+}
+
+.font-2{
+    font-size: 2em !important;
+}
+
+.p-left-0{
+    padding-left: 0px
+}
+
+.form-section{
+    border-bottom: 1px solid #ffff;
+    margin-bottom: 0px;
+}
+
+.result-text{
+    text-align: right;
+    padding-right: 15px
+}

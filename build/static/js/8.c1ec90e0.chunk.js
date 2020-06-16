@@ -1,0 +1,2 @@
+(this.webpackJsonpkalkulator=this.webpackJsonpkalkulator||[]).push([[8],{492:function(t,e,n){"use strict";n.r(e);var a=n(11),r=n(12),u=n(14),c=n(13),o=n(0),l=n.n(o),i=function(t){Object(u.a)(n,t);var e=Object(c.a)(n);function n(){return Object(a.a)(this,n),e.apply(this,arguments)}return Object(r.a)(n,[{key:"render",value:function(){return l.a.createElement("h4",null,"You're Home.")}}]),n}(l.a.Component);e.default=i}}]);
+//# sourceMappingURL=8.c1ec90e0.chunk.js.map
